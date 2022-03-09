@@ -8,6 +8,7 @@ Rencana Konten Danpu
 - Point Blank
   + Clan War
 - Valorant
+  * Competition
 - League of Legends
 - PUBG
 - Vlog
