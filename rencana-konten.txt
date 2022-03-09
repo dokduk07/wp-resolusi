@@ -1,14 +1,15 @@
-Rencana Konten Danpu
+Rencana Danpu
 
-- Dead by Daylight
-  * Montage Moment
-    + Bullying Killer
-    + Perks Value
-  * Funny Moment
-- Point Blank
-  + Clan War
-- Valorant
-  * Competition
-- League of Legends
-- PUBG
-- Vlog
+- Javascript
+  * ES6
+  * Framework Javascript
+    - Vue
+    - React
+    - Angular
+- Struktur Data Dasar
+- PHP
+  * OOP
+  * Framework PHP
+    - Code Igniter
+    - Laravel
+- Python
