@@ -2,8 +2,10 @@ Rencana Konten Danpu
 
 - Dead by Daylight
   * Montage Moment
+    + Toxic Player
+    + Toxic Killer
   * Funny Moment
-- Point Blank
 - Valorant
+  * Competition
 - League of Legends
 - Vlog
